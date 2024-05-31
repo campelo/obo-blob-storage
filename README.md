@@ -1,0 +1,1 @@
+Documentation [here](https://dev.to/campelo/azure-storage-on-behalf-of-token-and-audit-log-502l)
